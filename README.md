@@ -5,3 +5,5 @@ The stock prices of **Google** from 1st Nov, 2015 to 10th March, 2016 (12 hours 
 The source of data is **Yahoo** and its extraction has been implemented using **pandas_datareader** library.
 
 **Snapshot**
+
+![Stock](bokeh_plot_stock.png)
